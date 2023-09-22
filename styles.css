@@ -1,0 +1,59 @@
+body{
+    background-color: black;
+}
+th{
+    color: white;
+    font-family: Georgia, 'Times New Roman';
+}
+.menuitems {
+    padding-top: 10px;
+    padding-left: 45px;
+    font-size: 20px;
+}
+#main{
+    margin-left: 7em;
+    margin-top: 5em;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+.spc{
+    color: red
+}
+#image{
+    height: 50em;
+    width: 50em;
+    margin-left: 54em;
+    margin-top: -22em;
+    border-radius: 10em;
+}
+.mbuttons{
+    color: white;
+}
+#maincontent{
+    width: 22em;
+    height: 8em;
+}
+#footer{
+    padding-left: 16em;
+    margin-top: 5em;
+    margin-bottom: 2em;
+}
+.sm{
+    padding-left: 2em;
+}
+.imgc{
+    width: 25em;
+    height: 25em;
+    padding: 10px;
+    border-radius: 4em;
+}
+.imgcw
+{
+    width: 90em;
+    margin-left: 6em;
+    margin-top: 4em;
+    margin-bottom: 4em;
+    border-radius: 7em;
+    height: 44em;
+}
